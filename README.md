@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawelFiuk
-- 👀 I’m interested in creating web applications, including Web3 and cryptocurrency
-- 🌱 I’m currently learning Django, Django Rest Framework. Computer Science student on Opole University of Technology.
+- 👀 I’m interested in Embedded Software and microcontrollers.
+- 🌱 C, C++, Python.
 - 📫 LinkedIn profile --->   https://www.linkedin.com/in/pawe%C5%82-fiuk-2a1254200/
 
 <!---
