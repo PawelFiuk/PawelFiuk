@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawelFiuk
-- 👀 I’m interested in Embedded Software and microcontrollers.
-- 🌱 C, C++, Python.
+- 👀 I’m interested in Web Development Embedded Software and microcontrollers.
+- 🌱 C, C++, Python, DJANGO, STM32.
 - 📫 LinkedIn profile --->   https://www.linkedin.com/in/pawe%C5%82-fiuk-2a1254200/
 
 <!---
